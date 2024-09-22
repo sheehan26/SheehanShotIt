@@ -1,5 +1,6 @@
 /* Button Block Base Style
 =================================================*/
+/* This targets the main container that holds your images */
 .sqs-block-button-container {
   text-align: center;
 }
